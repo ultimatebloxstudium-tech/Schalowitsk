@@ -9825,10 +9825,19 @@
     "notes": "Refers to a vast expanse of saltwater. Coined via Route B (German See respelled with Slavic phonetic influence), noun form."
   },
   {
-    "english": "Noah",
-    "schalowitsk": "The Idiot",
-    "part_of_speech": "noun",
-    "pronunciation": "o-ss-n",
-    "notes": "TROLLING PHRASE, USED JUST TO BE FUNNY"
+    "english": "blend / mix / mingle",
+    "schalowitsk": "blends",
+    "part_of_speech": "verb",
+    "pronunciation": "blends",
+    "notes": "Describes mixing elements together. Coined via Route B (English blend respelled), verb form.",
+    "ai_generated": true
+  },
+  {
+    "english": "lose / misplace / forfeit",
+    "schalowitsk": "lost",
+    "part_of_speech": "adj",
+    "pronunciation": "lost",
+    "notes": "Describes being unable to find one's way or focus. Coined via Route B (English lost respelled), adjective form.",
+    "ai_generated": true
   }
 ]
